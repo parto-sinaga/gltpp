@@ -1,2 +1,4 @@
 # gltpp
-GLTPP
+
+
+as a human being :), learning by doing.
