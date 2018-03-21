@@ -1,4 +1,4 @@
 # gltpp
 
 
-as a human being :), learning by doing.
+Hellow darknest my old friends.
